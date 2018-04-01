@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    So far I have learned that it would be beneficial to make a new branch when you want your master code to stay in tact while you implement new features that you'd like to experiment with before you commit and merge to the master branch.  It is also beneficial when you want to make pull requests, you can make a new branch that you push to the remote and then work off of that instead of directly merging or changing code in the master.
