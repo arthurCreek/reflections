@@ -16,7 +16,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    One benefit is that if you are offline you can use the origin/master copy to work with.  Or instead of downloading or merging straight from the remote you can see the different files right from your local machine and once you are ready you can make the necessary changes and commit/push.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
